@@ -1,5 +1,5 @@
 ## Hi there 👋   ##大家好👋   大家好👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+texthttps://readme-typing-svg.demolab.com/?lines=First文本行；第二行文本)
+![Typing SVG   SVG打字](https://readme-typing-svg.demolab.com/?lines=Hello World！;Second+line+of+texthttps://readme-typing-svg.demolab.com/?lines=First文本行；第二行文本)
 
 
 
