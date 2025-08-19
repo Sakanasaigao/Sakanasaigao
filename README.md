@@ -3,4 +3,5 @@
 
 ![Anurag's GitHub stats   Anurag的GitHub统计](https://github-readme-stats.vercel.app/api?username=Sakanasaigao&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakanasaigao)
